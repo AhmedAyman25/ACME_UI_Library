@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Checks",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "lJxIhkIvNUqmClX-eQL2Ow",
+  "Reference": "Ayy-Ftrrg0qEhZDB0uf0Ew/lJxIhkIvNUqmClX-eQL2Ow",
+  "ParentRef": "Ayy-Ftrrg0qEhZDB0uf0Ew/jgcGxWAXk06M-rntWZ7C8A",
+  "Created": "2025-09-16T14:43:28.8091412Z",
+  "Updated": "2025-09-16T14:43:28.8091412Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RtohB_5fDUyuFeLRL__KkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" CVScreenId="57c28daf-d705-414c-a325-b43fc085b3e4" CvElementArea="182, 541, 63, 36" CvTextArea="195, 553, 37, 16" CvTextArgument="Login" CvType="Button" DesignTimeRectangle="184, 543, 60, 34" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' class='btn btn-primary' aaname='                             Login                         ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Login' /&gt;" Guid="9556c313-54d2-4986-9c99-edcb611f6b18" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEAAAAAmCAYAAAB0xJ2ZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVGhD7ZqxbsIwEIZ5okqFN+peqUuH8BJIfYaqa1kIS58gYq2YwlA2BAsZkFj+6hw5OLaDGkHcxHcn/RKxHdv/Z/symBGYx8gu4BY1AN8/Bzy9fWH88oGH5/eoRJ7IG3k0owJAFdTo8fUTkyTFZLqMS0mqvJFHE0IFgOgo8/aLkYk8klcHAJGJcuVtJany6gCgc+I0jlTkVQAIAAEgAASAABAANwJYFcBpj5ldfg8t9jjijGzhqbtRwwDQoYICmOXnajCgwNysV6t8qcuore6vtgO22NDvvGjuq4WCASjNXyZafyZTwDFfl+01jEYARt10jewEYLd1xvyLAgEoJ71ZmWXlxJVpz7vz3XUAZl8KZuPY1xUGQEMSI5MEQBmwVrBmSgAMHYBn0ryOgJP07Of2SbCfAHxhTKz1Z1Afi0EAuLN8eaEL9QOA2j3mjnBXuSv1A4BOekaEME/qDYD/kgAQAAJAADgA2F+Nsb8cZX89riGw/YME12AP4Be0gPKbnpUMywAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="d03d8139e42a8f88f70797c0557426f1.png" xmlns="">0FibxGbSWXkyulySgmM9y3A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

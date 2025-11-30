@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FlAKo6UomEaWBcHIUKBi2A" Reference="Ayy-Ftrrg0qEhZDB0uf0Ew/fB8edXz3EE-lSNc3p6QSwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/employees" CVScreenId="97750025-3414-4b96-a4ff-8ce23b35f4f4" CvElementArea="511, 304, 289, 86" CvTextArea="570, 323, 171, 23" CvTextArgument="Robert T Tatum" CvType="Button" DesignTimeRectangle="514, 308, 285, 80" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' idx='2' tag='DIV' /&gt;" Guid="1a66ef99-82a3-4ea7-bdc1-2aad5f26d7fc" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Employees' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="97750025-3414-4b96-a4ff-8ce23b35f4f4" CvElementArea="511, 304, 289, 86" CvTextArea="570, 323, 171, 23" CvTextArgument="[EmployeeName]" CvType="Button" DesignTimeRectangle="511, 304, 289, 86" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' class='name-alternative' matching:class='fuzzy' fuzzylevel:class='0.0' tag='DIV' type='' check:innerText='{0}' /&gt;&quot;, EmployeeName)]" Guid="9cb880d1-ec78-44c4-9d14-f2840471daeb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="25ad6a636ee846418cbf62d83a3780d5.png" xmlns="">0Yd7QLVfwik-dFWDpjvGpiw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Brad M Roberts" Name="EmployeeName" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

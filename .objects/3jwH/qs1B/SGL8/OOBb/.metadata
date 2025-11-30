@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EmployeeName",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OOBbS6yejkSnLWTwrmRGOA",
+  "Reference": "Ayy-Ftrrg0qEhZDB0uf0Ew/OOBbS6yejkSnLWTwrmRGOA",
+  "ParentRef": "Ayy-Ftrrg0qEhZDB0uf0Ew/SGL8BcQmdUepFWpWFMlgLw",
+  "Created": "2025-09-18T11:16:43.0894957Z",
+  "Updated": "2025-09-18T11:16:43.0894957Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
