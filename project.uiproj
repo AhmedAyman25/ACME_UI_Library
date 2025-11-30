@@ -1,0 +1,6 @@
+{
+  "Name": "ACMESystem1UILibrary",
+  "ProjectType": "Library",
+  "Description": "",
+  "MainFile": "NewActivity.xaml"
+}
